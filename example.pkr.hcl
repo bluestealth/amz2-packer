@@ -1,7 +1,7 @@
 variable "version" {
   type        = string
   description = "release of amazon linux to use"
-  default     = "2.0.20210326.0"
+  default     = "2.0.20210427.0"
 }
 
 variable "iso_dir" {
